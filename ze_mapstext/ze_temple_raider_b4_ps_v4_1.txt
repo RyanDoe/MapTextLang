@@ -2,35 +2,36 @@
 {
 	"** ZE TEMPLE RAIDER **"
 	{
-		"chi"		"** **"
+		"chi"		"**神庙丽影 **"
 	}
 	"** MAP BY SLAYERDRAGON **"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作:SLAYERDRAGON 翻译:木心 **"
 	}
 	"The world is falling apart!"
 	{
-		"chi"		"** **"
+		"chi"		"**这个世界正在崩溃 **"
 	}
 	"Fight your way to the temple and escape!"
 	{
-		"chi"		"** **"
+		"chi"		"**到达神庙并逃亡 **"
 	}
 	"Warmup Round - 10 sec"
 	{
-		"chi"		"** **"
+		"chi"		"**热身回合-10S **"
 	}
 	"** HOLD THIS AREA UNTIL THE DOOR UNLOCKS **"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这个区域直到大门打开 **"
 	}
 	"Hold 30 sec"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守30秒 **"
+		"DoorCountDown" "30"
 	}
 	"Warmup Round - End"
 	{
-		"chi"		"** **"
+		"chi"		"**热身回合-结束 **"
 	}
 	"Hold 5 sec"
 	{
@@ -38,47 +39,51 @@
 	}
 	"Hold 25 sec"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守25秒 **"
+		"DoorCountDown" "25"
 	}
 	"** HEALTH KIT ACQUIRED - 50s cooldown **"
 	{
-		"chi"		"** **"
+		"chi"		"**拾取奶-CD:50S **"
 	}
 	"Hold 15 sec"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守15S **"
+		"DoorCountDown" "15"
 	}
 	"** Health Kit Ready!!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**奶已准备 **"
 	}
 	"** SHOOT THE CRATES TO OPEN A WAY **"
 	{
-		"chi"		"** **"
+		"chi"		"**射击箱子打开道路 **"
+		"ico"   "icon_fire"
 	}
 	"** HOLD THE TEMPLE ENTRANCE **"
 	{
-		"chi"		"** **"
+		"chi"		"**守住神庙入口 **"
 	}
 	"** DOOR OPENS IN 5 SEC **"
 	{
-		"chi"		"** **"
+		"chi"		"**门5秒后打开 **"
 	}
 	"Hold 10 sec"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守10秒 **"
 	}
 	"Hold 20 sec"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守20秒 **"
+		"DoorCountDown" "20"
 	}
 	"** FALL BACK **"
 	{
-		"chi"		"** **"
+		"chi"		"**撤退 **"
 	}
 	"Prepare to fight !"
 	{
-		"chi"		"** **"
+		"chi"		"**准备战斗 **"
 	}
 	"** THE DRAGON IS CHARGING FOR A SUPERATTACK **"
 	{
@@ -94,43 +99,45 @@
 	}
 	"Hold 32 sec"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守32秒 **"
 	}
 	"** WE FOUND THE TREASURE ROOM! **"
 	{
-		"chi"		"** **"
+		"chi"		"**我们找到了宝藏房 **"
 	}
 	"** HOLD HERE TILL THE DOOR OPENS **"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这里直到大门打开 **"
 	}
 	"Hold 17 sec"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守17秒 **"
+		"DoorCountDown" "17"
 	}
 	"** END OF THE LINE - HOLD THE TOP **"
 	{
-		"chi"		"** **"
+		"chi"		"**线的尽头-守住顶部 **"
 	}
 	"** ESCAPE VIA THE ROPES! **"
 	{
-		"chi"		"** **"
+		"chi"		"**逃离绳索 **"
+		"ico"   "icon_fire"
 	}
 	"** KEEP DEFENDING TILL WE FIND A WAY OUT **"
 	{
-		"chi"		"** **"
+		"chi"		"**继续防守直到我们找到一条出路 **"
 	}
 	"** RUN !! THE TUNNEL IS COLLAPSING !! **"
 	{
-		"chi"		"** **"
+		"chi"		"**跑!!隧道正在倒塌 **"
 	}
 	"** DEFEND WHILE WE ARE OPENING THE FINAL GATES **"
 	{
-		"chi"		"** **"
+		"chi"		"**守住直到最后大门开放 **"
 	}
 	"** KEEP DEFENDING TILL THE LAST GATE OPENS **"
 	{
-		"chi"		"** **"
+		"chi"		"**保持防守直到最后一个大门打开 **"
 	}
 	"** THIS IS THE END - DEFEND TILL WE SECURED THIS POSITION! **"
 	{
@@ -138,14 +145,15 @@
 	}
 	"** DESTROY THE INVADERS - unlimited ammo enabled **"
 	{
-		"chi"		"** **"
+		"chi"		"**消灭侵略者-无限子弹开启(朝天上开枪射击飞船) **"
+		"ico"   "icon_fire"
 	}
 	"** SHIP ESCAPED **"
 	{
-		"chi"		"** **"
+		"chi"		"**船逃走了(通关失败) **"
 	}
 	"** Zombies Have Escaped **"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸逃走了 **"
 	}
 }
