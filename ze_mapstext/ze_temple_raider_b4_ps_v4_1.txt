@@ -87,15 +87,15 @@
 	}
 	"** THE DRAGON IS CHARGING FOR A SUPERATTACK **"
 	{
-		"chi"		"** **"
+		"chi"		"**龙正在蓄力 **"
 	}
 	"** USE THE CATAPULTS ON BOTH SIDES TO STAGGER HIM **"
 	{
-		"chi"		"** **"
+		"chi"		"**使用两侧的弩箭(身法好的去触发两边弩箭，不要站弩箭正前方) **"
 	}
 	"** THE DRAGON IS CHARGING FOR HIS FINAL ATTACK **"
 	{
-		"chi"		"** **"
+		"chi"		"**龙在为他最后的进攻蓄力(终极) **"
 	}
 	"Hold 32 sec"
 	{
